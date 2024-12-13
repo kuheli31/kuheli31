@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
 - 🔧 Passionate about **Web Development** and **Open Source Contributions**
-- 🔗 Actively contributing through **Hacktoberfest, GSoC, and GSSoC**
 - 🚀 Exploring the world of **AI & ML**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuheli31&show_icons=true&theme=radical" alt="kuheli31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuheli31&theme=radical" alt="kuheli31" /></p>
+
