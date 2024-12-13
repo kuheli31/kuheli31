@@ -43,7 +43,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuheli31&show_icons=true&theme=radical" alt="kuheli31" />
-  <img align="center" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" alt="coding-gif" width="400" style="margin-left:20px"/>
+  <img align="right" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" alt="coding-gif" width="400" style="margin-left:20px"/>
 </p>
 <h3 align="left">🔥 Contribution Chart:</h3>
 <p align="center">
