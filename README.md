@@ -22,7 +22,7 @@
 
 ---
 
-# Languages and Tools
+<h1 align="center">Languages and Tools</h1> 
 <table align="center" display:flex>
   <tr>
     <td align="center" width="96">
