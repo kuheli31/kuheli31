@@ -1,9 +1,11 @@
 <h1 align="center">
   <marquee>Hi 👋, I'm Kuheli Bera</marquee>
 </h1>
+
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=I +love;Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Data+Science" width="auto" height="35"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7B3C6E&background=AA349F00&center=true&width=435&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Web+Development" alt="Typing SVG" />
 </p>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 <p align="left">
