@@ -122,12 +122,12 @@
 
 ---
 
-<h3 align="left">🔥 Contribution Chart:</h3>
+<h3 align="center">🔥 Contribution Chart:</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuheli31&bg_color=0d1117&color=f5f5f5&line=f500e4&point=ffab00&area=true&hide_border=true" alt="Kuheli's Contribution Chart"/>
 </p>
 
-<h3 align="left">📊 Detailed Stats:</h3>
+<h3 align="center">📊 Detailed Stats:</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuheli31&theme=radical" alt="Kuheli's GitHub Summary"/>
 </p>
