@@ -177,7 +177,11 @@
 
 
 ---
+<!-- LeetCode stats -->
+<h3 align="center">📊 Coding Stats 📈</h3>
+<p align="center"><img src="https://leetcard.jacoblin.cool/KuheliBera?ext=heatmap&theme=dark"></p>
 
+---
 <h3 align="center">📈 GitHub Stats 📊</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=kuheli31&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
