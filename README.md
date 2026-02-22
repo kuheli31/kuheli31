@@ -112,34 +112,23 @@
 </table>
 <br><br>
 
----
 
-<!-- LeetCode stats -->
-<h3 align="center">📊 Coding Stats 📈</h3>
-<p align="center"><img src="https://leetcard.jacoblin.cool/KuheliBera?ext=heatmap&theme=dark"></p>
-
----
-<h3 align="center">📈 GitHub Stats 📊</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=kuheli31&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=kuheli31&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" alt="most used languages">
-</div>
 
 ---
 
 <h3 align="center">🔥 Contribution Chart:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuheli31&bg_color=0d1117&color=f5f5f5&line=f500e4&point=ffab00&area=true&hide_border=true" alt="Kuheli's Contribution Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuheli31&bg_color=0d1117&color=f5f5f5&line=f500e4&point=ffab00&area=true&hide_border=true" alt="Contribution Chart"/>
 </p>
 
 ---
 
 <h3 align="center">📊 Detailed Stats:</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuheli31&theme=radical" alt="Kuheli's GitHub Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuheli31&theme=radical" alt="GitHub Summary"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kuheli31&theme=react" height="200px" alt="Kuheli's GitHub Streak Stats"/> 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kuheli31&theme=react" height="200px" alt="GitHub Streak Stats"/> 
 </p>
 
 ---
