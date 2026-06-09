@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=kuheli31&label=Profile%20views&color=0e75b6&style=flat" alt="kuheli31" />
 </p>
 
-- 🎓 **B.Tech in Computer Science & Technology** at UEM Kolkata (2023–2027).  
+- 🎓 **B.Tech in Computer Science & Technology** at IEM Kolkata (2023–2027).  
 - 🌱 Currently learning **Data Structures and Algorithms (DSA)** and diving into **AI & ML**.  
 - 🔧 Passionate about **Web Development**, **Open Source Contributions**, and building scalable solutions.  
 
