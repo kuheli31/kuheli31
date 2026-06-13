@@ -13,7 +13,7 @@
 </p>
 
 - 🎓 **B.Tech in Computer Science & Engineering** at IEM Kolkata (2023–2027).  
-- 🌱 Currently learning **Low-Level-Design(LLD)** and diving into **LLMs** , **Agentic AI**.  
+- 🌱 Currently learning **Low-Level-Design(LLD)** and diving into **LLMs** , **Generative AI**.  
 - 🔧 Passionate about **Full-Stack Java Web Development**, **Open Source Contributions**, and building scalable solutions.  
 
 ---
